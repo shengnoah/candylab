@@ -1,0 +1,21 @@
+- menu_name: "友情链接"
+
+- name: "糖果杂货铺"
+  url: "http://lua.ren"
+  class: "network-entypo"
+  title: "Icons by Daniel Bruce"
+
+- name: "Openresty China"
+  url: "https://orchina.org"
+  class: "services-newsletter"
+  title: "Built on Foundation"
+
+- name: "MoonScript"
+  url: "https://moonscript.cn/"
+  class: "rss-link"
+  title: "Images by Unsplash"
+
+- name: "译启翻译"
+  url: "https://yqfy.net"
+  class: "sitemap-link"
+  title: "Using Backstretch by Scott Robbin"

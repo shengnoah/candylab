@@ -1,0 +1,18 @@
+- menu_name: "本站信息"
+
+- name: "联系我们"
+  url: "/contact/"
+  title: "Contact"
+
+- name: "RSS订阅"
+  url: "/feed.xml"
+  title: "Subscribe to RSS Feed"
+
+- name: "Atom聚合"
+  url: "/atom.xml"
+  title: "Subscribe to Atom Feed"
+
+- name: "网站地图"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"
+ 
