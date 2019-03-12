@@ -17,7 +17,7 @@ slogan: '糖果实验室'
 description: '这里是糖果的实验室。'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>糖果实验室 Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p> <p>感谢艺术家Phlow的灵感主题！</p>'
+credits: '<p>糖果实验室 Hosted by <a href="https://lua.ren" style="font-weight: bold">Lua教程</a></p> <p>感谢艺术家Phlow的灵感主题！</p>'
 
 
 # Main author of the website
