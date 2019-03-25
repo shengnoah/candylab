@@ -13,10 +13,10 @@ header:
   image_fullwidth: header_unsplash_12_1.jpg
   
 widget1:
-  title: "发布的文章"
-  url: 'https://yqfy.net/'
+  title: "Wario插件"
+  url: 'https://shengyang.xyz/wario/'
   image: widget-1-302x182.jpg
-  text: '老博客发布过的文章。'
+  text: '基于Stream管道的请求过滤模块。'
    
 widget2:
   title: "Lua入门教程"
@@ -25,10 +25,10 @@ widget2:
   text: '一个LUA通信交流博客。'
    
 widget3:
-  title: "Orange网关"
-  url: 'http://orchina.org'
+  title: "Tang演示框架"
+  url: 'https://shengyang.xyz/blues/'
   image: /widget-7-302x182.jpg
-  text: 'Orange网关的开源产品介绍。'
+  text: '基于Openresty的演示WEB框架。'
   
 widget4:
   title: "freebuf专栏"
