@@ -16,19 +16,19 @@ widget1:
   title: "发布的文章"
   url: 'https://yqfy.net/'
   image: widget-1-302x182.jpg
-  text: '在一些平台上公开发布过的文章。'
+  text: '老博客发布过的文章。'
    
 widget2:
-  title: "Lua从入门到放弃"
+  title: "Lua入门教程"
   url: 'https://lua.ren/'
   image: widget-never-give-up-302x182.jpg  
-  text: '一个LUA和Moonscript为主的博客。'
+  text: '一个LUA通信交流博客。'
    
 widget3:
-  title: "OpenResty中国"
+  title: "Orange网关"
   url: 'http://orchina.org'
   image: /widget-7-302x182.jpg
-  text: 'Openresty社区记录一些朋友发布的实践文章。'
+  text: 'Orange网关的开源产品介绍。'
   
 widget4:
   title: "freebuf专栏"
