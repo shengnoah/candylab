@@ -88,7 +88,7 @@ widget19:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://shengyang.xyz/blog/ 
+  url: https://candylab.net/blog/ 
   text: 文章归档 ›
   style: alert
 permalink: /index.html
@@ -97,10 +97,18 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 
+
+hobbything:
+  url: https://candylab.net/hobby/ 
+  text: 好玩好物 ›
+  style: alert
+permalink: /index.html
+
+
 homepage: true
 ---
 
-<meta name="keywords" content="candylab, 糖果实验室">
+<meta name="keywords" content="candylab,糖果实验室,Lua入门教程">
 
 
 
