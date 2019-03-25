@@ -88,8 +88,8 @@ widget19:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: http://orchina.org
-  text: 有时间去社区看看新闻 ›
+  url: https://shengyang.xyz/blog/ 
+  text: 文章归档 ›
   style: alert
 permalink: /index.html
 #

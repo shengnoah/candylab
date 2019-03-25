@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: " ELK大数据与威胁日志的数据迁徙方法"
 subheadline: "安全大数据实践"
-teaser: " ELK大数据与威胁日志的数据迁徙方法"
+teaser: "接上次ClickHouse威胁日志分析那篇接着写，这次是我们要把已经存储于ES集群中的相关日志和威胁情报转存ClickHouse上，整体分三部分来说，一部分记逻辑和物理上Graylog是如何处理日志数据。第二部分是写ClickHouse在物理部署和逻辑流程上是如何处理数据，第三部分讲如何这种体系的数据系统进行对接，Graylog相关的这部分内容官网也会讲，但不会在讲在这种使用场景下的处理流程，只当讲Graylog本身的小型或是大一些规模的存储结构。"
 categories:
   - design
 tags:

@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "CPU内核信息泄露原理：在用户模式读取内核内存"
 subheadline: "Portfolio"
-teaser: "Speculative execution"
+teaser: "我本打写一篇介绍这有多严重的文章，但并没有，我想你应该知道其严重性，如果没有的话，你应该读读这篇博客。如果你还觉得这东西微不足道，你更应该看看这篇文章。"
 categories:
     - design
 ---

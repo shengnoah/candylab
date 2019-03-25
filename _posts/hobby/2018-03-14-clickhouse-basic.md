@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "ClickHouse与威胁日志分析"
 subheadline: "服务监控防护"
-teaser: "ClickHouse与威胁日志分析"
+teaser: "为从上层部署更好说明问题，我们用卡通一点的方式来描述系统结构，不涉及到更多的负载均衡和线路保障这种细节点。我们先回忆一下基一地类ELK的解决方案。日志的数据的被封装抽象成Stream流的概念，引用Pipelin管道，把日志从逻辑上进行更高一级的抽象，这样我们不对直接面对文件和索引这些概念，有了Stream、Input、Output、这种概念的模式设计，可以更好的把原生的日志数据更好的归类和业务靠近。"
 categories:
   - design
 tags:

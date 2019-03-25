@@ -66,34 +66,11 @@ format: frontpage
 
 -->
 
-<!--
-{% comment %}
-*
-* First check, if there is a call for action-button
-*
-{% endcomment %}
-{% if page.callforaction.url contains 'http' %}
-{% assign url = '' %}
-{% else %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-{% endif %}
-{% if page.callforaction %}
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-        </div>
-    </div>
-{% endif %}
--->
-
-
-
-
 
 
 <div class="row">
     <div class="medium-9 columns t30">
-        {% for post in site.categories.design limit:10 %}
+        {% for post in site.categories.design limit:5 %}
           <div class="row">
             <!--
             <div class="small-10 columns b60">
@@ -130,6 +107,29 @@ format: frontpage
     </div><!-- /.medium-5.columns -->
 
 </div><!-- /.row -->
+
+
+
+
+
+{% comment %}
+*
+* First check, if there is a call for action-button
+*
+{% endcomment %}
+{% if page.callforaction.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+{% if page.callforaction %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div>
+    </div>
+{% endif %}
+
 
 
 
