@@ -14,7 +14,7 @@ header:
   
 widget1:
   title: "Wario插件"
-  url: 'https://shengyang.xyz/wario/'
+  url: 'https://candylab.net/wario/'
   image: widget-1-302x182.jpg
   text: '基于Stream管道的请求过滤模块。'
    
@@ -26,7 +26,7 @@ widget2:
    
 widget3:
   title: "Tang演示框架"
-  url: 'https://shengyang.xyz/blues/'
+  url: 'https://candylab.net/blues/'
   image: /widget-7-302x182.jpg
   text: '基于Openresty的演示WEB框架。'
   
